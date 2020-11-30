@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel! 👋
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>My Tech Stack</h3>
 
 - <h4>💻 &nbsp;Software development</h4> 
 
