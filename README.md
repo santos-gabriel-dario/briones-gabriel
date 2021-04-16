@@ -1,6 +1,4 @@
-### Hi there, I'm Gabriel! 👋
-
-<h3>My Tech Stack</h3>
+## My tech stack
 
 - <h4>🌐 &nbsp;Web development</h4>
 
